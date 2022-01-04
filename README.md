@@ -1,1 +1,1 @@
-# adivinhar-numero
+# adivinhar-numero-JS
